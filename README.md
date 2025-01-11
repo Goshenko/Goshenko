@@ -51,9 +51,7 @@
 
 ## 📊 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goshenko&show_icons=true&theme=radical)](https://github.com/Goshenko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goshenko&layout=compact&theme=radical)](https://github.com/Goshenko)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Goshenko&theme=default)](https://git.io/streak-stats)
 
 ---
 
