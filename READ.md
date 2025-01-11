@@ -1,4 +1,4 @@
-# 👋 Hi, I'm George Bereza!
+# 👋 Hi, I'm George Bereza! 🇨🇦🇺🇦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiybereza/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/Goshenko/) 
@@ -15,7 +15,6 @@
   <span style="font-family: Arial, sans-serif; font-size: 14px; color: #000; margin-right: 5px;">Anatomics</span>
   <img src="https://i.imgur.com/jXmIeTc.png" alt="Anatomics Logo" width="20" height="20" style="vertical-align: middle;">
 </a>
-
 - 🌱 I’m currently learning **C++, Three.JS, Tailwind CSS, React.js, JavaScript**  
 - 📫 How to reach me: **[gbereza@outlook.com](mailto:gbereza@outlook.com)**  
 - ⚡ Fun fact: I am forklift certified!  
