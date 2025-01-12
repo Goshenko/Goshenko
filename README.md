@@ -67,7 +67,7 @@
 
 ## 💡 Inspiration
 
-"We are hungry, and we will stay hungry" - Sergiy Bereza
+"Without commitment you'll never start, and without consistency you'll never finish"
 
 ---
 
