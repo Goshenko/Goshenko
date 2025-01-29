@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [**Anatomics**](https://github.com/Goshenko/Anatomics)
 - 🌱 I’m currently learning **C++, Three.js, Tailwind CSS, React.js, JavaScript**  
 - 📫 How to reach me: **[gbereza@outlook.com](mailto:gbereza@outlook.com)**  
-- ⚡ Fun fact: I am forklift certified!  
+- ⚡ Fun fact: I have my forklift license!
 
 
 ---
