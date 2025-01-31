@@ -61,7 +61,8 @@
 | Project Name | Description | Tech Stack | Demo/Code |
 |--------------|-------------|------------|-----------|
 | **[Anatomics](https://github.com/Goshenko/Anatomics)** | A fitness-related web app integrating 3D human anatomy models (via Blender) with tailored workout programs. Features interactive 3D visuals and dynamic user interfaces for personalized fitness planning. | Three.JS, JavaScript, Tailwind CSS, HTML, Blender | [Code](https://github.com/Goshenko/Anatomics) |
-| **[Night Shift](https://github.com/theBananadon/gilded-proboscis)** | A visual 3D program created with teammates, utilizing mathematics, algorithms, and project management. Designed a custom Java rendering system leveraging geometry, trigonometry, and the painter’s algorithm to produce an immersive 3D-like experience in a 2D environment. | Java, Custom Rendering System | [Code](https://github.com/theBananadon/gilded-proboscis) |
+| **[Pygen](https://github.com/Goshenko/password-generator)** | A secure password generator that allows users to create strong passwords based on custom character sets. Uses Argon2 for hashing and verification to ensure high security. | Python, Argon2, Hashlib, Random, String | [Code](https://github.com/Goshenko/password-generator) |
+
 
 ---
 
