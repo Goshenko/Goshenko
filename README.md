@@ -11,7 +11,7 @@
 
 - 🎓 I’m currently studying **Computer Science with a Cybersecurity stream** at **Carleton University**  
 - 🔭 I’m currently working on [**Anatomics**](https://github.com/Goshenko/Anatomics)
-- 🌱 I’m currently learning **C++, Three.js, Tailwind CSS, React.js, JavaScript**  
+- 🌱 I’m currently learning **C++, Tailwind CSS, React.js, JavaScript, Microcontrollers/Microprocessors, and CTF challenges.**  
 - 📫 How to reach me: **[gbereza@outlook.com](mailto:gbereza@outlook.com)**  
 - ⚡ Fun fact: I have my forklift license!
 
