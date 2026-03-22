@@ -47,13 +47,6 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 [![Hyper](https://img.shields.io/badge/Hyper-000000?logo=hyper&logoColor=fff)](#)
 
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Goshenko&theme=dark)](https://git.io/streak-stats)
-
 ---
 
 ## 🔗 Projects
